@@ -1,3 +1,5 @@
+init: .github/codeql/codeql-config.yml
+
 name: "Code Scanning - Action"
 
 on:
